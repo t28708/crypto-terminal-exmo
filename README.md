@@ -21,5 +21,7 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
 # crypto-terminal-exmo
+
+configure your exmo key from api.vue ( apiKey, secretKey)
